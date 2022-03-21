@@ -1,0 +1,9 @@
+E:\CSharp\TestDB\testconnection\testconnection\bin\Debug\testconnection.exe.config
+E:\CSharp\TestDB\testconnection\testconnection\bin\Debug\testconnection.exe
+E:\CSharp\TestDB\testconnection\testconnection\bin\Debug\testconnection.pdb
+E:\CSharp\TestDB\testconnection\testconnection\obj\Debug\testconnection.csprojResolveAssemblyReference.cache
+E:\CSharp\TestDB\testconnection\testconnection\obj\Debug\testconnection.Form1.resources
+E:\CSharp\TestDB\testconnection\testconnection\obj\Debug\testconnection.Properties.Resources.resources
+E:\CSharp\TestDB\testconnection\testconnection\obj\Debug\testconnection.csproj.GenerateResource.Cache
+E:\CSharp\TestDB\testconnection\testconnection\obj\Debug\testconnection.exe
+E:\CSharp\TestDB\testconnection\testconnection\obj\Debug\testconnection.pdb
